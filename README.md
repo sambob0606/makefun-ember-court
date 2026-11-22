@@ -1,6 +1,10 @@
 # Ember Court — a card duel
 
-An original card battler for make.fun's best card game bounty. You are the
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/sambob0606/makefun-ember-court/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/sambob0606/makefun-ember-court/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+
+An original card battler for [make.fun's best card game bounty](https://make.fun/bounty/best-card-game-20261122-1826). You are the
 Ember Warden, duelling the Ashen Warden across a felt table. Both duelists
 hold 30 life; each turn grants ember (mana) that grows from 1 to 10. Play
 cards from your hand — strikes, guards, mends and draws across four suits
